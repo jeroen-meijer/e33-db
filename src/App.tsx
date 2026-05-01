@@ -122,7 +122,7 @@ function searchText(entry: Entry): string {
 }
 
 async function fetchDatabase(): Promise<Database> {
-  const response = await fetch('/data/database.json')
+  const response = await fetch(`${import.meta.env.BASE_URL}data/database.json`)
   if (!response.ok) {
     throw new Error(`Failed to fetch database.json (${response.status})`)
   }
