@@ -1,0 +1,382 @@
+[
+  {
+    "id": "stun",
+    "name": "Stun",
+    "category": "status_effect",
+    "description": "Stun is a Status Effect in Clair Obscur Expedition 33. A Stunned Character will not be able to play their turn.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/stun-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Stun",
+      "scraped_at": "2026-05-01T13:13:19.642Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Stun is a Status Effect in Clair Obscur Expedition 33. A Stunned Character will not be able to play their turn.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "blight",
+    "name": "Blight",
+    "category": "status_effect",
+    "description": "Blight is a Status Effect in Clair Obscur Expedition 33. Blight reduces the afflicted Character's maximum Health, which can stack repeatedly.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/blight-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Blight",
+      "scraped_at": "2026-05-01T13:13:21.731Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Blight is a Status Effect in Clair Obscur Expedition 33. Blight reduces the afflicted Character's maximum Health, which can stack repeatedly.",
+    "can_stack": true,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "berserk",
+    "name": "Berserk",
+    "category": "status_effect",
+    "description": "Berserk is a Status Effect in Clair Obscur Expedition 33. A Character afflicted with the Berserk status effect will have their damage increased by 5% every turn, which can only stack for up to 12 times.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/berserk-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Berserk",
+      "scraped_at": "2026-05-01T13:13:22.228Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Berserk is a Status Effect in Clair Obscur Expedition 33. A Character afflicted with the Berserk status effect will have their damage increased by 5% every turn, which can only stack for up to 12 times.",
+    "can_stack": true,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "cursed",
+    "name": "Cursed",
+    "category": "status_effect",
+    "description": "Cursed is a Status Effect in Clair Obscur Expedition 33. A Cursed Character will die at the end of the status effect's duration. This status effect is mostly used by enemies, but some weapons of a character utilize this effect in combat.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/cursed-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Cursed",
+      "scraped_at": "2026-05-01T13:13:22.752Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Cursed is a Status Effect in Clair Obscur Expedition 33. A Cursed Character will die at the end of the status effect's duration. This status effect is mostly used by enemies, but some weapons of a character utilize this effect in combat.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "bound",
+    "name": "Bound",
+    "category": "status_effect",
+    "description": "Bound is a Status Effect in Clair Obscur Expedition 33. A Bound Character will not be able to dodge enemy attacks. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/bound-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Bound",
+      "scraped_at": "2026-05-01T13:13:23.273Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Bound is a Status Effect in Clair Obscur Expedition 33. A Bound Character will not be able to dodge enemy attacks. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "exhausted",
+    "name": "Exhausted",
+    "category": "status_effect",
+    "description": "Exhausted is a Status Effect in Clair Obscur Expedition 33. An Exhausted Character will not be able to gain any AP from any source. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/exhausted-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Exhausted",
+      "scraped_at": "2026-05-01T13:13:23.699Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Exhausted is a Status Effect in Clair Obscur Expedition 33. An Exhausted Character will not be able to gain any AP from any source. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "dizzy",
+    "name": "Dizzy",
+    "category": "status_effect",
+    "description": "Dizzy is a Status Effect in Clair Obscur Expedition 33. A Character afflicted with the Dizzy status effect will have a hard time aiming when using Free Aim Shot in combat. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/dizzy-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Dizzy",
+      "scraped_at": "2026-05-01T13:13:24.128Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Dizzy is a Status Effect in Clair Obscur Expedition 33. A Character afflicted with the Dizzy status effect will have a hard time aiming when using Free Aim Shot in combat. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "silence",
+    "name": "Silence",
+    "category": "status_effect",
+    "description": "Silence is a Status Effect in Clair Obscur Expedition 33. A Silenced Character will not be able to use any Skill. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/silence-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Silence",
+      "scraped_at": "2026-05-01T13:13:24.562Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Silence is a Status Effect in Clair Obscur Expedition 33. A Silenced Character will not be able to use any Skill. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "rage",
+    "name": "Rage",
+    "category": "status_effect",
+    "description": "Rage is a Status Effect in Clair Obscur Expedition 33. A Character afflicted with the Rage status effect will have to take two of their turns consecutively. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/rage-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Rage",
+      "scraped_at": "2026-05-01T13:13:25.004Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Rage is a Status Effect in Clair Obscur Expedition 33. A Character afflicted with the Rage status effect will have to take two of their turns consecutively. This status effect can only be inflicted by enemies, there are no character skills that can apply this effect to enemies.",
+    "can_stack": true,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "precision",
+    "name": "Precision",
+    "category": "status_effect",
+    "description": "Precision is a Status Effect in Clair Obscur Expedition 33.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/precision-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Precision",
+      "scraped_at": "2026-05-01T13:13:25.435Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Precision is a Status Effect in Clair Obscur Expedition 33.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "perfection",
+    "name": "Perfection",
+    "category": "status_effect",
+    "description": "Perfection is a Status Effect in Clair Obscur Expedition 33. Perfection is an exclusive effect that is related to the combat mechanic of Verso. Verso gains perfection to increase his rank by improving his Skills.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/perfection-status-effect-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Perfection",
+      "scraped_at": "2026-05-01T13:13:26.231Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Perfection is a Status Effect in Clair Obscur Expedition 33. Perfection is an exclusive effect that is related to the combat mechanic of Verso. Verso gains perfection to increase his rank by improving his Skills.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "burn",
+    "name": "Burn",
+    "category": "status_effect",
+    "description": "Burn is a Status Effect in Clair Obscur Expedition 33. Burn is a status effect that can deal extra damage at the start of a character's turn. The Burn effect can be stacked on an enemy and it is an effect that can also be applied to active party members.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/fire-element-icon-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Burn",
+      "scraped_at": "2026-05-01T13:13:27.493Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:neutral"
+    ],
+    "effect_kind": "neutral",
+    "effect_summary": "Burn is a Status Effect in Clair Obscur Expedition 33. Burn is a status effect that can deal extra damage at the start of a character's turn. The Burn effect can be stacked on an enemy and it is an effect that can also be applied to active party members.",
+    "can_stack": true,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "regen",
+    "name": "Regen",
+    "category": "status_effect",
+    "description": "Regen is a Buff in Clair Obscur Expedition 33. A Character with the Regen buff will automatically restore 10% of their maximum Health at the start of their turn.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/regen-buff-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Regen",
+      "scraped_at": "2026-05-01T13:13:28.005Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:debuff"
+    ],
+    "effect_kind": "debuff",
+    "effect_summary": "Regen is a Buff in Clair Obscur Expedition 33. A Character with the Regen buff will automatically restore 10% of their maximum Health at the start of their turn.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "powerful",
+    "name": "Powerful",
+    "category": "status_effect",
+    "description": "Powerful is a Buff in Clair Obscur Expedition 33. A Character with the Powerful buff will have their damage dealt amplified by 25%.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/powerful-buff-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Powerful",
+      "scraped_at": "2026-05-01T13:13:28.512Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:debuff"
+    ],
+    "effect_kind": "debuff",
+    "effect_summary": "Powerful is a Buff in Clair Obscur Expedition 33. A Character with the Powerful buff will have their damage dealt amplified by 25%.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "rush",
+    "name": "Rush",
+    "category": "status_effect",
+    "description": "Rush is a Buff in Clair Obscur Expedition 33. A Character with the Rush buff will have their Speed increased by 33%.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/rush-buff-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Rush",
+      "scraped_at": "2026-05-01T13:13:29.039Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:debuff"
+    ],
+    "effect_kind": "debuff",
+    "effect_summary": "Rush is a Buff in Clair Obscur Expedition 33. A Character with the Rush buff will have their Speed increased by 33%.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "shell",
+    "name": "Shell",
+    "category": "status_effect",
+    "description": "Shell is a Buff in Clair Obscur Expedition 33. A Character with the Shell buff will have their damage taken reduced by 20%.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shell-buff-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Shell",
+      "scraped_at": "2026-05-01T13:13:29.568Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:debuff"
+    ],
+    "effect_kind": "debuff",
+    "effect_summary": "Shell is a Buff in Clair Obscur Expedition 33. A Character with the Shell buff will have their damage taken reduced by 20%.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "powerless",
+    "name": "Powerless",
+    "category": "status_effect",
+    "description": "Powerless is a Debuff in Clair Obscur Expedition 33. A Character with the Powerless debuff applied to them will have 20% reduced damage dealt.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/powerless-debuff-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Powerless",
+      "scraped_at": "2026-05-01T13:13:30.099Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:debuff"
+    ],
+    "effect_kind": "debuff",
+    "effect_summary": "Powerless is a Debuff in Clair Obscur Expedition 33. A Character with the Powerless debuff applied to them will have 20% reduced damage dealt.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "slow",
+    "name": "Slow",
+    "category": "status_effect",
+    "description": "Slow is a Debuff in Clair Obscur Expedition 33. A Character with the Slow debuff applied to them will have 25% reduced Speed.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/slow-debuff-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Slow",
+      "scraped_at": "2026-05-01T13:13:30.610Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:debuff"
+    ],
+    "effect_kind": "debuff",
+    "effect_summary": "Slow is a Debuff in Clair Obscur Expedition 33. A Character with the Slow debuff applied to them will have 25% reduced Speed.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  },
+  {
+    "id": "defenceless",
+    "name": "Defenceless",
+    "category": "status_effect",
+    "description": "Defenceless is a Debuff in Clair Obscur Expedition 33. A Character with the Defenceless debuff applied to them will have 25% increased damage taken.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/defenceless-debuff-clair-obscur-expedition-33-wiki-guide.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Defenceless",
+      "scraped_at": "2026-05-01T13:13:31.027Z"
+    },
+    "tags": [
+      "status_effect",
+      "kind:debuff"
+    ],
+    "effect_kind": "debuff",
+    "effect_summary": "Defenceless is a Debuff in Clair Obscur Expedition 33. A Character with the Defenceless debuff applied to them will have 25% increased damage taken.",
+    "can_stack": false,
+    "related_skills": [],
+    "related_pictos": []
+  }
+]

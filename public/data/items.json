@@ -1,0 +1,989 @@
+[
+  {
+    "id": "tint-chroma-catalyst",
+    "name": "Chroma Catalyst",
+    "category": "item",
+    "description": "Chroma Catalyst is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Chroma+Catalyst",
+      "scraped_at": "2026-05-01T13:13:14.643Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "The item is used to upgrade Weapons up to level 3. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
+    "obtain_locations": [
+      "Lumiere (Prologue): Received from the Trash-can Man.",
+      "Spring Meadows: You’ll first receive this item after regrouping with Lune and defeating the Portier you face together.",
+      "Spring Meadows: Can be found in an abandoned house in Spring Meadows, specifically after defeating the two Lanceliers right in front of it.",
+      "Spring Meadows: Can be found near the edge of a cliff behind a giant rock in Spring Meadows, just after you find your first Colour of Lumina.",
+      "Spring Meadows: Dropped by the Chromatic Lancelier boss.",
+      "Spring Meadows: Can be found near a cliff's edge in Spring Meadows, after exiting the cave where the Abandoned Expeditioner Camp Expedition Flag is located. You'll find the item surrounded by broken boxes.",
+      "Spring Meadows: Dropped by the Eveque boss.",
+      "Flying Waters: Dropped upon defeating Chromatic Troubadour.",
+      "Flying Waters: Dropped upon defeating Bourgeon.",
+      "Flying Waters: Dropped upon defeating Goblu.",
+      "Coastal Cave: Dropped upon defeating the group of enemies consisting of a Cruler and a Bruler.",
+      "Flying Waters: Noco",
+      "Stone Wave Cliffs: Jerijeri",
+      "Forgotten Battlefield: Kasumi",
+      "Old Lumiere: Mandelgo",
+      "Visages: Blooraga",
+      "Sirene: Klaudiso",
+      "The Monolith: Mistra",
+      "The Monolith: Melosh",
+      "Yellow Harvest: Pinabby",
+      "Falling Leaves: Persik",
+      "The Reacher: Eragol",
+      "Renoir's Drafts: Grour"
+    ]
+  },
+  {
+    "id": "tint-colour-of-lumina",
+    "name": "Colour of Lumina",
+    "category": "item",
+    "description": "Colour of Lumina is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/colour-of-lumina-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Colour+of+Lumina",
+      "scraped_at": "2026-05-01T13:13:17.621Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": null,
+    "obtain_locations": [
+      "Lumiere (Prologue): Can be found when you interact with a stack of materials on the left side of the market.",
+      "Lumiere (Prologue): Can be obtained when interacting with the double doors of two Life Enjoyers for 33 times.",
+      "Spring Meadows: Can be found behind the Portier enemy near the Grand Meadow Expedition Flag in Spring Meadows. Look for a corpse impaled with a spear, positioned near a tree and a large rock.",
+      "Spring Meadows: Dropped by the Chromatic Lancelier boss.",
+      "Spring Meadows: Can be found in a small alcove near the Abandoned Expeditioner Camp Expedition Flag.",
+      "Spring Meadows: Can be found under a bridge in Spring Meadows. After passing through the Abandoned Expedition Camp Expedition Flag, follow the linear path, and you'll come across this item under the bridge on the left side, surrounded by boxes.",
+      "Spring Meadows: Defeat the Jar to obtain 3 Colour of Lumina.",
+      "Spring Meadows: Break through the first Paint Spike near Jar and pick up the Colour of Lumina on the right of the tunnel.",
+      "Spring Meadows: Break through the second Paint Spike on the path next to the path up to The Indigo Tree Expedition Flag in the area with the blue trees, and pick it up by the corpse.",
+      "Flying Waters: At the Coral Cave section, head up the ramp to find a Luster blocking a loot beam containing a Colour of Lumina.",
+      "Flying Waters: Can be found on a ledge on the right side of the Coral Cave's main path, near where the Mime was standing.",
+      "Flying Waters: Can be found on top of a ramp at the left path of the Lumieran Streets.",
+      "Ancient Sanctuary: Can be found on a ledge exiting the cave of the Sanctuary Maze, wherein you will have to go up a rope on the path on the right of the cave to access it.",
+      "Ancient Sanctuary: On the left path of the cave in Sanctuary Maze, you can find one by the ledge.",
+      "The Continent: After exiting Spring Meadows through the portal, follow the path to the right. Continue along the road until you reach a group of abandoned tents and look behind the breakable boxes nearby to find the item.",
+      "The Continent: After exiting Spring Meadows through the portal, follow the path to the left. You'll find this item on the road near some breakable boxes on the left side. It should be near the entrance to the Abbest Cave.",
+      "The Continent: After setting up your first camp, continue forward, and at the right side of the road, you'll find the item behind some breakable boxes.",
+      "Esquie's Nest: Can be found on the path to the right after meeting Sunniso at the entrance.",
+      "Esquie's Nest: Can be found near the Francois Cave Expedition Flag.",
+      "Esquie's Nest: Can be found on a pillar in Esquie's Room. After defeating Francois, take the rope up and follow the path up on the right. Hop onto the pillar and pick it up.",
+      "Stone Wave Cliffs: At the end of the path from the Entrance Expedition Flag.",
+      "Stone Wave Cliffs: By the cliff after grappling to the next section in the first area.",
+      "Stone Wave Cliffs: Can be found on a ledge where the SOS Power Pictos can be found past the Paintress Shrine Expedition Flag.",
+      "Stone Wave Cliffs: Can be found in the middle of the tunnel in the right side of the farm.",
+      "Stone Wave Cliffs: Can be found surrounded by wooden boxes situated beside a tall hexagon stalegmite in the Tide Caverns."
+    ]
+  },
+  {
+    "id": "tint-chroma-elixir-shard",
+    "name": "Chroma Elixir Shard",
+    "category": "item",
+    "description": "Chroma Elixir Shard is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/chroma-elixir-shard-tint-item-expedition-33-wiki-guide-200px.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Chroma+Elixir+Shard",
+      "scraped_at": "2026-05-01T13:13:31.828Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": null,
+    "obtain_locations": [
+      "Flying Waters: Can be found inside the first Paint Cage.",
+      "Ancient Sanctuary: Can be found inside the Paint Cage at the Sanctuary Maze section.",
+      "Forgotten Battlefield: Can be found inside the Paint Cage.",
+      "Stone Wave Cliffs Cave: Can be found inside the Paint Cage."
+    ]
+  },
+  {
+    "id": "tint-energy-tint-shard",
+    "name": "Energy Tint Shard",
+    "category": "item",
+    "description": "Energy Tint Shard is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-energy-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Energy+Tint+Shard",
+      "scraped_at": "2026-05-01T13:13:55.253Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": null,
+    "obtain_locations": [
+      "Spring Meadows: Can be found in the abandoned house in Spring Meadows. Enter the house and head to the second floor. Use the rope to ascend to the third floor, then take the stairs down and look underneath the staircase to find the item.",
+      "Flying Waters: In the Lumieran Street section of Flying Waters, you can find a purple loot beam containing an Energy Tint Shard beside a Cruler on the left path.",
+      "Ancient Sanctuary: In the arena where you fight the Ultimate Sakapatate, there is a slightly elevated area where the shard can be found",
+      "Stone Wave Cliffs: From the Paintress Shrine Expedition Flag in Stone Wave Cliffs, head down to the path on the right and pick up the Energy Tint Shard at the base of the shrine.",
+      "Forgotten Battlefield: From the Vanguard Point Expedition Flag, head forward and descend the sloped cylinder. Once on flat ground make a slight right and destroy a stack of crates. The shard is under the crates.",
+      "Visages: In the Sadness Vale area, head through the path in the middle to find a path on the right side. Defeat the Chapelier, then pick up the Energy Tint Shard at the end of the path.",
+      "Sirene: Can be found behind the rubble directly to the right of the Crumbling Path Expedition Flag."
+    ]
+  },
+  {
+    "id": "tint-grandiose-chroma-catalyst",
+    "name": "Grandiose Chroma Catalyst",
+    "category": "item",
+    "description": "Grandiose Chroma Catalyst is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/grandiose-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Grandiose+Chroma+Catalyst",
+      "scraped_at": "2026-05-01T13:13:56.827Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "The item is used to upgrade Weapons up to level 32. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
+    "obtain_locations": [
+      "Flying Manor: x3 dropped upon defeating the Gargant.",
+      "Flying Manor: x3 dropped upon defeating the Lampmaster",
+      "Flying Manor: Can be picked up on a cliff along the path going to the Lampmaster",
+      "Flying Manor: Dropped upon defeating the Bourgeon near the Eveque bosses",
+      "Flying Manor: Can be found on the right side of the Bourgeon near the Eveque bosses, on top of the fallen structure turned ramp",
+      "Flying Manor: Can be found at a dead end behind the Cruler near the Eveque bosses",
+      "Flying Manor: x5 dropped upon defeating the Petank near the Eveque bosses",
+      "Flying Manor: x6 dropped upon defeating the Eveque bosses (Flame Eveque, Frost Eveque, Thunder Eveque)",
+      "Flying Manor: Drops from the Bourgeon found near Fusoka, along the path to Goblu",
+      "Flying Manor: Found on a floating platform along the main path going to Goblu",
+      "Flying Manor: x3 dropped upon defeating Goblu",
+      "Flying Manor: Found on the right side after climbing the holds near the broken bridge on the left side of the Central Plaza",
+      "Flying Manor: Found on the broken bridge on the left side of the Central Plaza, guarded by two Gold Chevalieres",
+      "Flying Manor: x3 dropped upon defeating Dualliste",
+      "Flying Manor: Found near a giant canvas on the left side of Dualliste",
+      "Flying Manor: Dropped upon defeating Bourgeon near Dualliste",
+      "Flying Manor: x3 dropped upon defeating Clea",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 1.",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 2.",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 3.",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 4.",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 5.",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 6.",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 7.",
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 8."
+    ]
+  },
+  {
+    "id": "tint-healing-tint-shard",
+    "name": "Healing Tint Shard",
+    "category": "item",
+    "description": "Healing Tint Shard is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-health-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Healing+Tint+Shard",
+      "scraped_at": "2026-05-01T13:14:00.932Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": null,
+    "obtain_locations": [
+      "Spring Meadows: You'll receive this item after giving Resin to an NPC named Jar located near the Abandoned Expeditioner Camp Expedition Flag.",
+      "Ancient Sanctuary: Once you get to the stone brick path at the Sanctuary Maze section, head to the path on the left and follow it to find a Healing Tint Shard.",
+      "Stone Wave Cliffs: Turn to the left path from the Paintress Shrine Expedition Flag, defeat the enemies there and pick up the Healing Tint Shard by some crates.",
+      "Forgotten Battlefield: Go through the large gate at Main Gate Expedition Flag. Go left at the first turn, and then left again. Ascend the stone steps and cross the wooden bridge. The Healing Tint Shard is behind the last group of enemies there.",
+      "Visages: At the Joy Vale flag, continue forward hugging the right wall. Go up the path, turning to the right. The Healing Tint Shard is next to a large sword stuck in the ground.",
+      "Verso's Draft: Next to a broken pillar which is behind the Very Very Cool Gestral (Part of the Thank You Update)",
+      "The Monolith: Melosh"
+    ]
+  },
+  {
+    "id": "questitem-resin",
+    "name": "Resin",
+    "category": "item",
+    "description": "Resin is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/resin-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Resin",
+      "scraped_at": "2026-05-01T13:14:01.359Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Spring Meadows, past the Abandoned Expedition Camp Expedition Flag"
+    ]
+  },
+  {
+    "id": "tint-perfect-chroma-catalyst",
+    "name": "Perfect Chroma Catalyst",
+    "category": "item",
+    "description": "Perfect Chroma Catalyst is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/perfect-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Perfect+Chroma+Catalyst",
+      "scraped_at": "2026-05-01T13:14:01.791Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "Can be used at Camp to upgrade weapons to level 33.",
+    "obtain_locations": [
+      "Flying Manor: Dropped upon defeating the Lampmaster.",
+      "Flying Manor: Dropped upon defeating the Eveque bosses (Flame Eveque, Frost Eveque, Thunder Eveque)",
+      "Flying Manor: Dropped upon defeating Dualliste.",
+      "Flying Manor: Dropped upon defeating Clea.",
+      "Endless Tower: 1x rewarded for completing Trial 3 in Stage 11.",
+      "Renoir's Drafts: Can be obtained upon defeating the Chromatic Creation.",
+      "The Abyss: 2x rewarded for defeating Simon.",
+      "The Continent: x1 rewarded for defeating Serpenphare located in The Continent [See Expedition 33 Map]. Requires Esquie's fly ability to reach the boss.",
+      "Trash-Can Man: 1x obtained in Act 3 by checking the location where Trash-Can Man appeared—only if you interacted with him in the prologue.",
+      "In New Game +: A majority of Chromatic enemies drop 1x, while those that drop in a first game have their yields increased.",
+      "Root of all Evil: x1 rewarded upon defeating Osquio.",
+      "Endless Tower: 1x Rewarded after defeating Chromatic Lampmaster.",
+      "Endless Tower: 1x Rewarded after defeating Duollistes.",
+      "Endless Tower: 1x Rewarded after defeating Clea Unleashed.",
+      "Endless Tower: 1x Rewarded after defeating Simon the Divergent Star."
+    ]
+  },
+  {
+    "id": "tint-polished-chroma-catalyst",
+    "name": "Polished Chroma Catalyst",
+    "category": "item",
+    "description": "Polished Chroma Catalyst is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/polished-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Polished+Chroma+Catalyst",
+      "scraped_at": "2026-05-01T13:14:02.241Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "The item is used to upgrade Weapons up to level 9. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
+    "obtain_locations": [
+      "Flying Waters: Dropped upon defeating Goblu.",
+      "Ancient Sanctuary: Dropped upon defeating Ultimate Sakapatate.",
+      "Stone Wave Cliffs: From the Old Farm Expedition Flag, head right behind the first shack and follow this path. Take out the enemies, and head behind the large boulder and pick up a Polished Chroma Catalyst by some crates.",
+      "Stone Wave Cliffs: From the Old Farm Expedition Flag, drop down to the left of the slope to pick up a Polished Chroma Catalyst by a wgon and some crates.",
+      "Stone Wave Cliffs: Defeat the Petank at the Old Farm to obtain 5 Polished Chroma Catalysts.",
+      "Stone Wave Cliffs: Can be obtained from defeating the Lampmaster.",
+      "Forgotten Battlefield: Can be obtained by destroying the Paint Spike in Fort Ruins.",
+      "Forgotten Battlefield: Dropped upon defeating Dualliste.",
+      "Old Lumiere: Defeat an enemy group (A Steel Chevaliere and a Ceramic Chevaliere) past the Right Street Expedition Flag.",
+      "Old Lumiere: From the Left Street Expedition Flag, head to the right and drop down onto the large pipe to pick up a Polished Chroma Catalyst.",
+      "Old Lumiere: After watching the cutscene where Verso disappears, follow the path ahead to the left, and then to the right until you reach the open melting building. Turn to the left and walk the ledge until the end to pick up a Polished Chroma Catalyst.",
+      "Old Lumiere: Defeat Renoir to obtain 3 Polished Chroma Catalysts.",
+      "Yellow Harvest: Dropped upon defeating Glaise in the Yellow Spire Wrecks section.",
+      "Yellow Harvest: Dropped upon defeating the Chromatic Orphelin in a hidden cave in the Yellow Spire Wrecks section.",
+      "Crushing Cavern: Dropped upon defeating the Giant Sapling deep inside.",
+      "Endless Night Sanctuary: Defeat the group of enemies consisting of a Ranger Sakapatate and a Catapult Sakapatate to obtain x3 Polished Chroma Catalyst.",
+      "Esoteric Ruins: Can be obtained if chosen to fight the Friendly Portier after helping it.",
+      "Stone Wave Cliffs: Jerijeri",
+      "Forgotten Battlefield: Kasumi",
+      "Old Lumiere: Mandelgo",
+      "Visages: Blooraga",
+      "Sirene: Klaudiso",
+      "The Monolith: Mistra",
+      "The Monolith: Melosh",
+      "Yellow Harvest: Pinabby"
+    ]
+  },
+  {
+    "id": "tint-recoat",
+    "name": "Recoat",
+    "category": "item",
+    "description": "Recoat is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/recoat-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Recoat",
+      "scraped_at": "2026-05-01T13:14:04.837Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": null,
+    "obtain_locations": [
+      "Lumiere (Prologue): Given by Nicolas if you accept to give him inspiration to draw by dueling Sophie.",
+      "Spring Meadows: Randomly dropped upon defeating Eveque.",
+      "Flying Waters: Found on top of a coral near a Demineur roaming the area past Expedition 68's sunken boat.",
+      "Flying Waters: Randomly dropped upon defeating Goblu.",
+      "Gestral Village: Found on the right side of the Gestral Casino.",
+      "Esquie's Nest: Dropped upon defeating the Petank in this location.",
+      "Stone Wave Cliffs: Dropped upon defeating the Petank in this location.",
+      "Stone Wave Cliffs: Can be found to the left upon taking the rope down to the room with the Gold Chevaliere and the entrance to The Manor in the Tide Caverns section.",
+      "Stone Wave Cliffs: Can be found behind the Greatsword Cultist in the Flooded Building section.",
+      "Stone Wave Cliffs: Randomly dropped upon defeating the Lampmaster.",
+      "Monoco's Station: Speak to the Grateful Grandis who sits by the luggage to obtain a Recoat.",
+      "Visages: Randomly dropped upon defeating Mask Keeper",
+      "Sirene: Dropped upon defeating the Petank in the Dancing Classes section.",
+      "Sirene: Dropped upon defeating the Petank in the Crumbling Path section.",
+      "Sirene: Randomly dropped upon defeating Sirene (Boss).",
+      "The Monolith: Dropped upon defeating a group of enemies that consists of a Ranger Sakapatate and a Robust Sakapatate in the Tainted Sanctuary section.",
+      "The Monolith: Randomly dropped upon defeating the Ultimate Sakapatate in the Tatinted Sanctuary section.",
+      "The Monolith: Can be found behind the lighthouse in the Tainted Cliffs section.",
+      "The Monolith: Dropped upon defeating the Petank in the Tainted Cliffs section.",
+      "The Monolith: Can be found within some boxes behind the statue in the first area of the Tainted Lumiere section.",
+      "The Monolith: Randomly dropped upon defeating The Paintress.",
+      "Lumiere (Act III): Found on the left side of the Lumiere's Garden, leading to a dead end.",
+      "Lumiere (Act III): Found on top of a bench along the middle path of Lumiere's Garden.",
+      "Verso's Drafts: x1. Dropped by the Licornapieds.",
+      "Flying Manor: Dropped by a Petank near the Eveque bosses"
+    ]
+  },
+  {
+    "id": "tint-resplendent-chroma-catalyst",
+    "name": "Resplendent Chroma Catalyst",
+    "category": "item",
+    "description": "Resplendent Chroma Catalyst is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/resplendent-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Resplendent+Chroma+Catalyst",
+      "scraped_at": "2026-05-01T13:14:11.751Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "The item is used to upgrade Weapons up to level 19. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
+    "obtain_locations": [
+      "Visages: Found on the right of the Anger Vale Expedition Flag",
+      "Visages: Found in the area on the right of the floating mask accessible through a ramp",
+      "Visages: Dropped upon defeating Seething Boucheclier",
+      "Visages: Dropped upon defeating Jovial Moissonneuse",
+      "Visages: Dropped upon defeating Sorrowful Chapelier",
+      "Visages: Dropped upon defeating Mask Keeper",
+      "Sirene: Found at the end of the large plaza past the Dancing Class Expedition Flag.",
+      "Sirene: Found hidden by a Paint Spike in a large room to the left after walking down the path from the Dancing Classes Expedition Flag.",
+      "Sirene: From the previous Resplendent Chroma Catalyst location, turn around and take the rope down. Head through the archway on the right and turn left to pick up the Resplendent Chroma Catalyst.",
+      "Sirene: After the Chromatic Greatsword Cultist boss, head down the path on the right and climb up the wall structure and into the building to find a Resplendent Chroma Catalyst.",
+      "Sirene: From the previous Resplendent Chroma Catalyst, turn around and go straight ahead to climb the wall structures. Crawl into the building and pick up the Resplendent Chroma Catalyst.",
+      "Sirene: From the previous Repsplendent Chroma Catalyst, take the rope down and turn right to pick up the Resplendent Chroma Catalyst.",
+      "Sirene: Defeat the Petank in this location to obtain 5 Resplendent Chroma Catalysts.",
+      "Sirene: Exit the ribbon room and head to the other side past the archway to pick up a Resplendent Chroma Catalyst.",
+      "Sirene: Past The Manor entrance, head down the path and grapple up across to the next area. Continue down the left side and pick up a Resplendant Chroma Catalyst on the balcony.",
+      "Sirene: Can be found to the right before approaching the Tisseur after the Sewing Atelier Expedition Flag.",
+      "Sirene: Defeat the Petank in the Crumbling Path to obtain 5 Resplendent Chroma Catalysts.",
+      "Sirene: Can be obtained upon defeating Glissando.",
+      "Sirene: Can be found by a large column after being transported in the Crumbling Path.",
+      "Sirene: Can be obtained upon defeating Sirene (Boss).",
+      "The Monolith: Defeat Eveque in the Tainted Meadows.",
+      "The Monolith: Can be found on the ground on the path before the Tainted Waters Expedition Flag.",
+      "The Monolith: Defeat the Chromatic Bourgeon in the Tainted Waters.",
+      "The Monolith: Can be picked up by the large structure in the main area past the Tainted Waters Expedition Flag.",
+      "The Monolith: Defeat the Ultimate Sakapatate in the Tainted Sanctuary."
+    ]
+  },
+  {
+    "id": "tint-revive-tint-shard",
+    "name": "Revive Tint Shard",
+    "category": "item",
+    "description": "Revive Tint Shard is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-life-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Revive+Tint+Shard",
+      "scraped_at": "2026-05-01T13:14:16.607Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": null,
+    "obtain_locations": [
+      "Spring Meadows: From the Abandoned Expeditioner Camp Expeditioner Flag in Spring Meadows, head forward and pass under the bridge. Take the path to the left and follow it to the end of the narrow trail to find the item.",
+      "Flying Waters: At the Coral Cave section in Flying Waters, a Paint Cage will contain a Revive Tint Shard.",
+      "Stone Wave Cliffs: Can be found near the Flooded Building flag just right after climbing the broken building. Indicated by climbing hooks, near the Greatsword Cultist.",
+      "Ancient Sanctuary: Can be found inside a small wooden structure in the Sanctuary Maze section.",
+      "Forgotten Battlefield: Can be found inside a small area near the Vanguard Point Expedition Flag.",
+      "Visages: Head to the path on the left in the Anger Vale section. Defeat the group of Bouchecliers in the area, then pick up the Revive Tint Shard.",
+      "Sirene: Start from the Sewing Atelier flag and head into the Tisseur boss room. Before reaching the Tisseur boss fight, turn left and ascend the ramped platforms. The shard is in a Paint Cage at the top of the path.",
+      "The Monolith: Can be obtained by unlocking the Paint Cage at the Entrance.",
+      "Frozen Hearts: Destroy the Paint Cage in the field near the columns within the Iced Heart section. (From the flag go through the cliff passage behind you, it'll be past a Danseuse.)",
+      "Old Lumiere: Mandelgo"
+    ]
+  },
+  {
+    "id": "tint-shape-of-energy",
+    "name": "Shape of Energy",
+    "category": "item",
+    "description": "Shape of Energy is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-energy-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Shape+of+Energy",
+      "scraped_at": "2026-05-01T13:14:17.460Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "Can be used at Camp to upgrade the Energy Tint.",
+    "obtain_locations": [
+      "Location: The Manor",
+      "1x found in the basement/cellar of The Manor. There is an opening on the ground that you can jump into from the kitchen. (Requires testing: To unlock it, you must interact with the statue, pots, and the candleholder in the kitchen to trigger the switches)"
+    ]
+  },
+  {
+    "id": "tint-shape-of-health",
+    "name": "Shape of Health",
+    "category": "item",
+    "description": "Shape of Health is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-health-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Shape+of+Health",
+      "scraped_at": "2026-05-01T13:14:17.943Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "Can be used at Camp to upgrade the Healing Tint.",
+    "obtain_locations": [
+      "Flying Waters: Received after defeating Goblu.",
+      "The Manor: Use free aim to shoot the mirror in the second floor bathroom and climb through the new passage."
+    ]
+  },
+  {
+    "id": "tint-shape-of-life",
+    "name": "Shape of Life",
+    "category": "item",
+    "description": "Shape of Life is a Tint item in Clair Obscur Expedition 33. Tints are materials that are used for various features, such as upgrading weapons, respec Skill Points, obtain more Lumina Points to equip Luminas, and more. Some Tints can randomly drop from defeating Enemies.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-life-tint-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Shape+of+Life",
+      "scraped_at": "2026-05-01T13:14:18.353Z"
+    },
+    "tags": [
+      "item",
+      "subtype:tint"
+    ],
+    "subtype": "tint",
+    "usage": "Can be used at Camp to upgrade the Revive Tint.",
+    "obtain_locations": [
+      "Stone Wave Cliffs: Can be obtained from defeating the Lampmaster.",
+      "Manor: From the entrance, take the left stairs to the second floor, then jump through the first painting on your left after the third flight of stairs. The painting is opposite the walkway between the second floor wings and has a bunch of playing balls next to it."
+    ]
+  },
+  {
+    "id": "questitem-old-key",
+    "name": "Old Key",
+    "category": "item",
+    "description": "Old Key is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/old-key-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Old+Key",
+      "scraped_at": "2026-05-01T13:14:34.723Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Lumiere",
+      "The second token can be acquired by answering Antoine's trivia questions. When asked \"When was the Fracture?\": the answer is 67 years ago. When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero. When asked \"What is Lumina?\": the answer is Abilities you internalize by using a Pictos in battle after enough times.",
+      "When asked \"When was the Fracture?\": the answer is 67 years ago.",
+      "When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero.",
+      "When asked \"What is Lumina?\": the answer is Abilities you internalize by using a Pictos in battle after enough times."
+    ]
+  },
+  {
+    "id": "questitem-manor-family-canvas",
+    "name": "Manor Family Canvas",
+    "category": "item",
+    "description": "Manor Family Canvas is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/manor-family-canvas-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Manor+Family+Canvas",
+      "scraped_at": "2026-05-01T13:14:35.151Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: The Canvas"
+    ]
+  },
+  {
+    "id": "questitem-a-flower-for-sophie",
+    "name": "A Flower for Sophie",
+    "category": "item",
+    "description": "A Flower for Sophie is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/flower-for-sophie-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/A+Flower+for+Sophie",
+      "scraped_at": "2026-05-01T13:14:35.767Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Lumiere"
+    ]
+  },
+  {
+    "id": "questitem-a-journal-from-gustaves-apprentices",
+    "name": "A Journal from Gustave's Apprentices",
+    "category": "item",
+    "description": "A Journal from Gustave's Apprentices or Gustave's Journal is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/gustaves-journal-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/A+Journal+from+Gustave's+Apprentices",
+      "scraped_at": "2026-05-01T13:14:36.709Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Lumiere"
+    ]
+  },
+  {
+    "id": "questitem-a-uniform-for-richards-son",
+    "name": "A Uniform for Richard's Son",
+    "category": "item",
+    "description": "A Uniform for Richard's Son is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/uniform-for-richards-son-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/A+Uniform+for+Richard's+Son",
+      "scraped_at": "2026-05-01T13:14:37.198Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Lumiere"
+    ]
+  },
+  {
+    "id": "questitem-birthday-cake",
+    "name": "Birthday Cake",
+    "category": "item",
+    "description": "Birthday Cake is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/birthday-cake-quest-item-coe33-wiki-guide200px.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Birthday+Cake",
+      "scraped_at": "2026-05-01T13:14:38.063Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Verso's Drafts"
+    ]
+  },
+  {
+    "id": "questitem-bourgeon-skin",
+    "name": "Bourgeon Skin",
+    "category": "item",
+    "description": "Bourgeon Skin is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/bourgeon-skin-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Bourgeon+Skin",
+      "scraped_at": "2026-05-01T13:14:38.920Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Flying Manor: Three Bourgeons can be found in the Flying Manor, each dropping a Bourgeon Skin"
+    ]
+  },
+  {
+    "id": "questitem-colour-of-the-beast",
+    "name": "Colour of the Beast",
+    "category": "item",
+    "description": "Colour of the Beast is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/color-of-the-beast-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Colour+of+the+Beast",
+      "scraped_at": "2026-05-01T13:14:39.376Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": "A lamp that can be used to awaken the beast.",
+    "obtain_locations": [
+      "Location: Painting Workshop"
+    ]
+  },
+  {
+    "id": "questitem-chromatic-ink",
+    "name": "Chromatic Ink",
+    "category": "item",
+    "description": "Chromatic Ink is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/chromatic-ink-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Chromatic+Ink",
+      "scraped_at": "2026-05-01T13:14:40.341Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": []
+  },
+  {
+    "id": "questitem-eternal-ice",
+    "name": "Eternal Ice",
+    "category": "item",
+    "description": "Eternal Ice is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/eternal-ice-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Eternal+Ice",
+      "scraped_at": "2026-05-01T13:14:40.763Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Frozen Hearts"
+    ]
+  },
+  {
+    "id": "questitem-festival-token",
+    "name": "Festival Token",
+    "category": "item",
+    "description": "Festival Token is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/festival-token-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Festival+Token",
+      "scraped_at": "2026-05-01T13:14:41.182Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Lumiere",
+      "The second token can be acquired by answering Antoine's trivia questions. When asked \"When was the Fracture?\": the answer is 67 years ago. When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero. When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times.",
+      "When asked \"When was the Fracture?\": the answer is 67 years ago.",
+      "When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero.",
+      "When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times."
+    ]
+  },
+  {
+    "id": "questitem-intact-mine",
+    "name": "Intact Mine",
+    "category": "item",
+    "description": "Intact Mine is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/intact-mine-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Intact+Mine",
+      "scraped_at": "2026-05-01T13:14:42.111Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Flying Waters"
+    ]
+  },
+  {
+    "id": "questitem-light-of-the-beast",
+    "name": "Light of the Beast",
+    "category": "item",
+    "description": "Light of the Beast is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/light-of-the-beast-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Light+of+the+Beast",
+      "scraped_at": "2026-05-01T13:14:42.584Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": "A lamp that can be used to awaken the beast.",
+    "obtain_locations": [
+      "Location: Painting Workshop"
+    ]
+  },
+  {
+    "id": "questitem-molten-heart",
+    "name": "Molten Heart",
+    "category": "item",
+    "description": "Molten Heart is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/molten-heart-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Molten+Heart",
+      "scraped_at": "2026-05-01T13:14:43.490Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": []
+  },
+  {
+    "id": "questitem-mushroom",
+    "name": "Mushroom",
+    "category": "item",
+    "description": "Mushroom is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/mushroom-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Mushroom",
+      "scraped_at": "2026-05-01T13:14:44.024Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Esquie's Nest"
+    ]
+  },
+  {
+    "id": "questitem-piece-of-cake-1",
+    "name": "Piece of Cake 1",
+    "category": "item",
+    "description": "Piece of Cake 1 is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/piece-of-cake-1-quest-item-coe33-wiki-guide200px.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Piece+of+Cake+1",
+      "scraped_at": "2026-05-01T13:14:45.076Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Verso's Drafts"
+    ]
+  },
+  {
+    "id": "questitem-piece-of-cake-2",
+    "name": "Piece of Cake 2",
+    "category": "item",
+    "description": "Piece of Cake 2 is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/piece-of-cake-2-quest-item-coe33-wiki-guide200px.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Piece+of+Cake+2",
+      "scraped_at": "2026-05-01T13:14:45.583Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Verso's Drafts."
+    ]
+  },
+  {
+    "id": "questitem-toy-boat",
+    "name": "Toy Boat",
+    "category": "item",
+    "description": "Toy Boat is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/toy-boat-quest-item-coe33-wiki-guide200px.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Toy+Boat",
+      "scraped_at": "2026-05-01T13:14:46.105Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Verso's Drafts."
+    ]
+  },
+  {
+    "id": "questitem-piece-of-cake-3",
+    "name": "Piece of Cake 3",
+    "category": "item",
+    "description": "Piece of Cake 3 is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/piece-of-cake-3-quest-item-coe33-wiki-guide200px.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Piece+of+Cake+3",
+      "scraped_at": "2026-05-01T13:14:46.538Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Verso's Drafts."
+    ]
+  },
+  {
+    "id": "questitem-rock-crystal",
+    "name": "Rock Crystal",
+    "category": "item",
+    "description": "Rock Crystal is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/rock-crystal-quest-item-expedition-33-wiki-guide-200px.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Rock+Crystal",
+      "scraped_at": "2026-05-01T13:14:47.715Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": []
+  },
+  {
+    "id": "questitem-shape-of-the-beast",
+    "name": "Shape of the Beast",
+    "category": "item",
+    "description": "Shape of the Beast is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-the-beast-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Shape+of+the+Beast",
+      "scraped_at": "2026-05-01T13:14:48.211Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": "A lamp that can be used to awaken the beast.",
+    "obtain_locations": [
+      "Location: Painting Workshop"
+    ]
+  },
+  {
+    "id": "questitem-underground-key",
+    "name": "Underground Key",
+    "category": "item",
+    "description": "Underground Key is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/underground-key-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Underground+Key",
+      "scraped_at": "2026-05-01T13:14:48.733Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": []
+  },
+  {
+    "id": "questitem-weird-pictos",
+    "name": "Weird Pictos",
+    "category": "item",
+    "description": "Weird Pictos is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/weird-pictos-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Weird+Pictos",
+      "scraped_at": "2026-05-01T13:14:49.270Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Lumiere",
+      "The second token can be acquired by answering Antoine's trivia questions. When asked \"When was the Fracture?\": the answer is 67 years ago. When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero. When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times.",
+      "When asked \"When was the Fracture?\": the answer is 67 years ago.",
+      "When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero.",
+      "When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times."
+    ]
+  },
+  {
+    "id": "questitem-wood-boards",
+    "name": "Wood Boards",
+    "category": "item",
+    "description": "Wood Boards is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/wood-boards-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Wood+Boards",
+      "scraped_at": "2026-05-01T13:14:50.304Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Esoteric Ruins"
+    ]
+  },
+  {
+    "id": "questitem-wooden-stick",
+    "name": "Wooden Stick",
+    "category": "item",
+    "description": "Wooden Stick is a Quest Item in Clair Obscur Expedition 33. Quest Items are acquired from NPCs, dropped by unique Enemies or Bosses, loot, or by story progression. These Quest Items are mainly used to progress the game's main campaign, complete NPC questlines, and acquire unique rewards.",
+    "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/wooden-stick-quest-item-expedition-33-wiki-guide-200px-min.png",
+    "source": {
+      "url": "https://expedition33.wiki.fextralife.com/Wooden+Stick",
+      "scraped_at": "2026-05-01T13:14:51.183Z"
+    },
+    "tags": [
+      "item",
+      "subtype:quest_item"
+    ],
+    "subtype": "quest_item",
+    "usage": null,
+    "obtain_locations": [
+      "Location: Gestral Village"
+    ]
+  }
+]
