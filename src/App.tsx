@@ -17,7 +17,7 @@ import {
   type Picto,
   type StatusEffect,
   type Weapon,
-} from '../../e33-db-scraper/src/types'
+} from './db-types'
 
 type Entry = Weapon | Picto | StatusEffect | Item
 type CategoryFilter = 'all' | Entry['category']
