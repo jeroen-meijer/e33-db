@@ -13,13 +13,14 @@ import { cn } from '@/lib/utils'
 import {
   databaseSchema,
   type Database,
+  type Enemy,
   type Item,
   type Picto,
   type StatusEffect,
   type Weapon,
 } from './db-types'
 
-type Entry = Weapon | Picto | StatusEffect | Item
+type Entry = Weapon | Picto | StatusEffect | Item | Enemy
 type CategoryFilter = 'all' | Entry['category']
 
 function normalizeSearch(value: string): string {
@@ -118,6 +119,18 @@ function searchText(entry: Entry): string {
       entry.related_pictos.join(' '),
     ].join(' ')
   }
+  if (entry.category === 'enemy') {
+    return [
+      common,
+      entry.kind,
+      entry.obtain_locations.join(' '),
+      entry.weak_spots.join(' '),
+      entry.elemental_affinities.map((a) => `${a.relation} ${a.element}`).join(' '),
+      entry.related_rewards.join(' '),
+      entry.notes.join(' '),
+      entry.info_lines.join(' '),
+    ].join(' ')
+  }
   return [common, entry.subtype, entry.usage ?? '', entry.obtain_locations.join(' ')].join(' ')
 }
 
@@ -138,6 +151,7 @@ function categoryLabel(category: Entry['category']): string {
 function imageSizeClassForEntry(entry: Entry): string {
   if (entry.category === 'weapon') return 'h-60 w-40'
   if (entry.category === 'item') return 'h-36 w-36'
+  if (entry.category === 'enemy') return 'h-44 w-36'
   if (entry.category === 'picto') return 'h-32 w-32'
   return 'h-32 w-32'
 }
@@ -306,6 +320,110 @@ function renderPrettyDetails(entry: Entry) {
     )
   }
 
+  if (entry.category === 'enemy') {
+    return (
+      <div className="grid gap-4 text-xs">
+        <section className="grid gap-1">
+          <h3 className="text-sm font-medium">Enemy Profile</h3>
+          <p>
+            <strong>Type:</strong> {entry.kind === 'boss' ? 'Boss' : 'Enemy'}
+          </p>
+        </section>
+
+        {entry.elemental_affinities.length > 0 && (
+          <section className="grid gap-2">
+            <h3 className="text-sm font-medium">Elemental Affinities</h3>
+            <div className="overflow-hidden rounded-md border">
+              <table className="w-full border-collapse text-left">
+                <thead className="bg-muted/60">
+                  <tr>
+                    <th className="border-b px-2 py-1.5 text-[11px]">Relation</th>
+                    <th className="border-b px-2 py-1.5 text-[11px]">Element</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {entry.elemental_affinities.map((affinity, index) => (
+                    <tr key={`${affinity.relation}-${affinity.element}-${index}`}>
+                      <td className="border-b px-2 py-1.5 capitalize">{affinity.relation}</td>
+                      <td className="border-b px-2 py-1.5">
+                        <span className="inline-flex items-center gap-2">
+                          {affinity.icon_url ? (
+                            <img
+                              src={affinity.icon_url}
+                              alt={affinity.element}
+                              className="size-5 rounded-sm border object-contain"
+                              loading="lazy"
+                            />
+                          ) : null}
+                          {affinity.element}
+                        </span>
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        )}
+
+        {entry.info_lines.length > 0 && (
+          <section className="grid gap-2">
+            <h3 className="text-sm font-medium">Enemy Information</h3>
+            <ul className="list-disc space-y-1 pl-5 text-muted-foreground">
+              {entry.info_lines.map((line) => (
+                <li key={line}>{line}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {entry.weak_spots.length > 0 && (
+          <section className="grid gap-2">
+            <h3 className="text-sm font-medium">Weak Spots</h3>
+            <ul className="list-disc space-y-1 pl-5 text-muted-foreground">
+              {entry.weak_spots.map((spot) => (
+                <li key={spot}>{spot}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {entry.obtain_locations.length > 0 && (
+          <section className="grid gap-2">
+            <h3 className="text-sm font-medium">Where to Find</h3>
+            <ul className="list-disc space-y-1 pl-5 text-muted-foreground">
+              {entry.obtain_locations.map((location) => (
+                <li key={location}>{location}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {entry.related_rewards.length > 0 && (
+          <section className="grid gap-2">
+            <h3 className="text-sm font-medium">Related Rewards</h3>
+            <ul className="list-disc space-y-1 pl-5 text-muted-foreground">
+              {entry.related_rewards.map((reward) => (
+                <li key={reward}>{reward}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {entry.notes.length > 0 && (
+          <section className="grid gap-2">
+            <h3 className="text-sm font-medium">Notes & Tips</h3>
+            <ul className="list-disc space-y-1 pl-5 text-muted-foreground">
+              {entry.notes.map((note) => (
+                <li key={note}>{note}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+      </div>
+    )
+  }
+
   return (
     <div className="grid gap-2 text-xs">
       <p>
@@ -339,7 +457,7 @@ function App() {
   const allEntries = useMemo<Entry[]>(() => {
     const data = databaseQuery.data
     if (!data) return []
-    return [...data.weapons, ...data.pictos, ...data.status_effects, ...data.items]
+    return [...data.weapons, ...data.pictos, ...data.status_effects, ...data.items, ...data.enemies]
   }, [databaseQuery.data])
 
   const filteredEntries = useMemo(() => {
@@ -407,7 +525,7 @@ function App() {
           </CardHeader>
         </Card>
 
-        <Card>
+        <Card className="relative z-30 overflow-visible">
           <CardHeader>
             <CardTitle className="text-sm">Filters</CardTitle>
           </CardHeader>
@@ -457,7 +575,7 @@ function App() {
               ) : null}
             </div>
             <div className="flex flex-wrap gap-2">
-              {(['all', 'weapon', 'picto', 'status_effect', 'item'] as const).map((value) => (
+              {(['all', 'weapon', 'picto', 'status_effect', 'item', 'enemy'] as const).map((value) => (
                 <Button
                   key={value}
                   type="button"
@@ -473,7 +591,7 @@ function App() {
               <Badge variant="outline">Results: {filteredEntries.length}</Badge>
               <Badge variant="outline">
                 DB totals W:{metadata.totals.weapons} P:{metadata.totals.pictos} S:{metadata.totals.status_effects}{' '}
-                I:{metadata.totals.items}
+                I:{metadata.totals.items} E:{metadata.totals.enemies}
               </Badge>
               <Badge variant="outline">Warnings: {metadata.warnings.length}</Badge>
             </div>

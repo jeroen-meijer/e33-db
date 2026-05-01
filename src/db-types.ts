@@ -1,6 +1,6 @@
 import { z } from "zod";
 
-export const categorySchema = z.enum(["weapon", "picto", "status_effect", "item"]);
+export const categorySchema = z.enum(["weapon", "picto", "status_effect", "item", "enemy"]);
 
 export const sourceSchema = z.object({
   url: z.string().url(),
@@ -104,6 +104,25 @@ export const itemSchema = baseEntrySchema.extend({
   obtain_locations: z.array(z.string()).default([]),
 });
 
+export const enemySchema = baseEntrySchema.extend({
+  category: z.literal("enemy"),
+  kind: z.enum(["enemy", "boss"]),
+  obtain_locations: z.array(z.string()).default([]),
+  weak_spots: z.array(z.string()).default([]),
+  elemental_affinities: z
+    .array(
+      z.object({
+        relation: z.enum(["weakness", "resistance", "immunity"]),
+        element: z.string(),
+        icon_url: z.string().url().nullable(),
+      }),
+    )
+    .default([]),
+  related_rewards: z.array(z.string()).default([]),
+  notes: z.array(z.string()).default([]),
+  info_lines: z.array(z.string()).default([]),
+});
+
 export const databaseSchema = z.object({
   metadata: z.object({
     generated_at: z.string(),
@@ -112,6 +131,7 @@ export const databaseSchema = z.object({
       pictos: z.number(),
       status_effects: z.number(),
       items: z.number(),
+      enemies: z.number(),
     }),
     warnings: z.array(z.string()),
   }),
@@ -119,10 +139,12 @@ export const databaseSchema = z.object({
   pictos: z.array(pictoSchema),
   status_effects: z.array(statusEffectSchema),
   items: z.array(itemSchema),
+  enemies: z.array(enemySchema),
 });
 
 export type Weapon = z.infer<typeof weaponSchema>;
 export type Picto = z.infer<typeof pictoSchema>;
 export type StatusEffect = z.infer<typeof statusEffectSchema>;
 export type Item = z.infer<typeof itemSchema>;
+export type Enemy = z.infer<typeof enemySchema>;
 export type Database = z.infer<typeof databaseSchema>;

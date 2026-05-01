@@ -7,7 +7,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Chroma+Catalyst",
-      "scraped_at": "2026-05-01T13:13:14.643Z"
+      "scraped_at": "2026-05-01T14:46:13.701Z"
     },
     "tags": [
       "item",
@@ -16,6 +16,7 @@
     "subtype": "tint",
     "usage": "The item is used to upgrade Weapons up to level 3. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
     "obtain_locations": [
+      "Can sometimes randomly drop from defeating enemies.",
       "Lumiere (Prologue): Received from the Trash-can Man.",
       "Spring Meadows: You’ll first receive this item after regrouping with Lune and defeating the Portier you face together.",
       "Spring Meadows: Can be found in an abandoned house in Spring Meadows, specifically after defeating the two Lanceliers right in front of it.",
@@ -49,7 +50,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/colour-of-lumina-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Colour+of+Lumina",
-      "scraped_at": "2026-05-01T13:13:17.621Z"
+      "scraped_at": "2026-05-01T14:46:16.612Z"
     },
     "tags": [
       "item",
@@ -58,6 +59,7 @@
     "subtype": "tint",
     "usage": null,
     "obtain_locations": [
+      "Can sometimes randomly drop from defeating enemies.",
       "Lumiere (Prologue): Can be found when you interact with a stack of materials on the left side of the market.",
       "Lumiere (Prologue): Can be obtained when interacting with the double doors of two Life Enjoyers for 33 times.",
       "Spring Meadows: Can be found behind the Portier enemy near the Grand Meadow Expedition Flag in Spring Meadows. Look for a corpse impaled with a spear, positioned near a tree and a large rock.",
@@ -81,8 +83,7 @@
       "Stone Wave Cliffs: At the end of the path from the Entrance Expedition Flag.",
       "Stone Wave Cliffs: By the cliff after grappling to the next section in the first area.",
       "Stone Wave Cliffs: Can be found on a ledge where the SOS Power Pictos can be found past the Paintress Shrine Expedition Flag.",
-      "Stone Wave Cliffs: Can be found in the middle of the tunnel in the right side of the farm.",
-      "Stone Wave Cliffs: Can be found surrounded by wooden boxes situated beside a tall hexagon stalegmite in the Tide Caverns."
+      "Stone Wave Cliffs: Can be found in the middle of the tunnel in the right side of the farm."
     ]
   },
   {
@@ -93,7 +94,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/chroma-elixir-shard-tint-item-expedition-33-wiki-guide-200px.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Chroma+Elixir+Shard",
-      "scraped_at": "2026-05-01T13:13:31.828Z"
+      "scraped_at": "2026-05-01T14:46:31.545Z"
     },
     "tags": [
       "item",
@@ -116,7 +117,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-energy-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Energy+Tint+Shard",
-      "scraped_at": "2026-05-01T13:13:55.253Z"
+      "scraped_at": "2026-05-01T14:46:54.589Z"
     },
     "tags": [
       "item",
@@ -142,7 +143,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/grandiose-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Grandiose+Chroma+Catalyst",
-      "scraped_at": "2026-05-01T13:13:56.827Z"
+      "scraped_at": "2026-05-01T14:46:55.888Z"
     },
     "tags": [
       "item",
@@ -151,6 +152,7 @@
     "subtype": "tint",
     "usage": "The item is used to upgrade Weapons up to level 32. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
     "obtain_locations": [
+      "Drops from enemies located in Frozen Hearts.",
       "Flying Manor: x3 dropped upon defeating the Gargant.",
       "Flying Manor: x3 dropped upon defeating the Lampmaster",
       "Flying Manor: Can be picked up on a cliff along the path going to the Lampmaster",
@@ -174,8 +176,7 @@
       "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 4.",
       "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 5.",
       "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 6.",
-      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 7.",
-      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 8."
+      "Endless Tower: 1x rewarded for completing each Trial (Trials 1-3) in Stage 7."
     ]
   },
   {
@@ -186,7 +187,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-health-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Healing+Tint+Shard",
-      "scraped_at": "2026-05-01T13:14:00.932Z"
+      "scraped_at": "2026-05-01T14:47:00.353Z"
     },
     "tags": [
       "item",
@@ -212,7 +213,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/resin-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Resin",
-      "scraped_at": "2026-05-01T13:14:01.359Z"
+      "scraped_at": "2026-05-01T14:47:01.025Z"
     },
     "tags": [
       "item",
@@ -221,7 +222,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Spring Meadows, past the Abandoned Expedition Camp Expedition Flag"
+      "Location: Spring Meadows, past the Abandoned Expedition Camp Expedition Flag",
+      "Go through the Abandoned Expeditioner Camp Expedition Flag in Spring Meadows and follow the linear path. You'll find this behind some breakable barrels and boxes just after passing under the bridge in the area."
     ]
   },
   {
@@ -232,7 +234,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/perfect-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Perfect+Chroma+Catalyst",
-      "scraped_at": "2026-05-01T13:14:01.791Z"
+      "scraped_at": "2026-05-01T14:47:01.467Z"
     },
     "tags": [
       "item",
@@ -249,6 +251,7 @@
       "Renoir's Drafts: Can be obtained upon defeating the Chromatic Creation.",
       "The Abyss: 2x rewarded for defeating Simon.",
       "The Continent: x1 rewarded for defeating Serpenphare located in The Continent [See Expedition 33 Map]. Requires Esquie's fly ability to reach the boss.",
+      "Painting Workshop 1x rewarded for defeating the Lampmaster and talking to the Faceless Boy.",
       "Trash-Can Man: 1x obtained in Act 3 by checking the location where Trash-Can Man appeared—only if you interacted with him in the prologue.",
       "In New Game +: A majority of Chromatic enemies drop 1x, while those that drop in a first game have their yields increased.",
       "Root of all Evil: x1 rewarded upon defeating Osquio.",
@@ -266,7 +269,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/polished-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Polished+Chroma+Catalyst",
-      "scraped_at": "2026-05-01T13:14:02.241Z"
+      "scraped_at": "2026-05-01T14:47:01.932Z"
     },
     "tags": [
       "item",
@@ -275,6 +278,7 @@
     "subtype": "tint",
     "usage": "The item is used to upgrade Weapons up to level 9. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
     "obtain_locations": [
+      "Can sometimes randomly drop from defeating enemies.",
       "Flying Waters: Dropped upon defeating Goblu.",
       "Ancient Sanctuary: Dropped upon defeating Ultimate Sakapatate.",
       "Stone Wave Cliffs: From the Old Farm Expedition Flag, head right behind the first shack and follow this path. Take out the enemies, and head behind the large boulder and pick up a Polished Chroma Catalyst by some crates.",
@@ -298,8 +302,7 @@
       "Visages: Blooraga",
       "Sirene: Klaudiso",
       "The Monolith: Mistra",
-      "The Monolith: Melosh",
-      "Yellow Harvest: Pinabby"
+      "The Monolith: Melosh"
     ]
   },
   {
@@ -310,7 +313,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/recoat-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Recoat",
-      "scraped_at": "2026-05-01T13:14:04.837Z"
+      "scraped_at": "2026-05-01T14:47:04.575Z"
     },
     "tags": [
       "item",
@@ -319,6 +322,7 @@
     "subtype": "tint",
     "usage": null,
     "obtain_locations": [
+      "This item can occasionally drop randomly from defeating enemies.",
       "Lumiere (Prologue): Given by Nicolas if you accept to give him inspiration to draw by dueling Sophie.",
       "Spring Meadows: Randomly dropped upon defeating Eveque.",
       "Flying Waters: Found on top of a coral near a Demineur roaming the area past Expedition 68's sunken boat.",
@@ -342,8 +346,7 @@
       "The Monolith: Randomly dropped upon defeating The Paintress.",
       "Lumiere (Act III): Found on the left side of the Lumiere's Garden, leading to a dead end.",
       "Lumiere (Act III): Found on top of a bench along the middle path of Lumiere's Garden.",
-      "Verso's Drafts: x1. Dropped by the Licornapieds.",
-      "Flying Manor: Dropped by a Petank near the Eveque bosses"
+      "Verso's Drafts: x1. Dropped by the Licornapieds."
     ]
   },
   {
@@ -354,7 +357,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/resplendent-chroma-catalyst-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Resplendent+Chroma+Catalyst",
-      "scraped_at": "2026-05-01T13:14:11.751Z"
+      "scraped_at": "2026-05-01T14:47:12.932Z"
     },
     "tags": [
       "item",
@@ -363,6 +366,7 @@
     "subtype": "tint",
     "usage": "The item is used to upgrade Weapons up to level 19. Weapon Upgrading can be done by speaking to The Curator back at Camp.",
     "obtain_locations": [
+      "Can sometimes randomly drop from defeating enemies.",
       "Visages: Found on the right of the Anger Vale Expedition Flag",
       "Visages: Found in the area on the right of the floating mask accessible through a ramp",
       "Visages: Dropped upon defeating Seething Boucheclier",
@@ -386,8 +390,7 @@
       "The Monolith: Defeat Eveque in the Tainted Meadows.",
       "The Monolith: Can be found on the ground on the path before the Tainted Waters Expedition Flag.",
       "The Monolith: Defeat the Chromatic Bourgeon in the Tainted Waters.",
-      "The Monolith: Can be picked up by the large structure in the main area past the Tainted Waters Expedition Flag.",
-      "The Monolith: Defeat the Ultimate Sakapatate in the Tainted Sanctuary."
+      "The Monolith: Can be picked up by the large structure in the main area past the Tainted Waters Expedition Flag."
     ]
   },
   {
@@ -398,7 +401,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-life-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Revive+Tint+Shard",
-      "scraped_at": "2026-05-01T13:14:16.607Z"
+      "scraped_at": "2026-05-01T14:47:17.045Z"
     },
     "tags": [
       "item",
@@ -427,7 +430,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-energy-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Shape+of+Energy",
-      "scraped_at": "2026-05-01T13:14:17.460Z"
+      "scraped_at": "2026-05-01T14:47:18.203Z"
     },
     "tags": [
       "item",
@@ -437,7 +440,8 @@
     "usage": "Can be used at Camp to upgrade the Energy Tint.",
     "obtain_locations": [
       "Location: The Manor",
-      "1x found in the basement/cellar of The Manor. There is an opening on the ground that you can jump into from the kitchen. (Requires testing: To unlock it, you must interact with the statue, pots, and the candleholder in the kitchen to trigger the switches)"
+      "1x found in the basement/cellar of The Manor. There is an opening on the ground that you can jump into from the kitchen. (Requires testing: To unlock it, you must interact with the statue, pots, and the candleholder in the kitchen to trigger the switches)",
+      "1x found in the library of The Manor. Enter the Manor Door on the island northwest of the Stone Wave Cliffs, go up the stairs, and jump across the platforms."
     ]
   },
   {
@@ -448,7 +452,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-health-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Shape+of+Health",
-      "scraped_at": "2026-05-01T13:14:17.943Z"
+      "scraped_at": "2026-05-01T14:47:18.707Z"
     },
     "tags": [
       "item",
@@ -469,7 +473,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-life-tint-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Shape+of+Life",
-      "scraped_at": "2026-05-01T13:14:18.353Z"
+      "scraped_at": "2026-05-01T14:47:19.137Z"
     },
     "tags": [
       "item",
@@ -490,7 +494,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/old-key-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Old+Key",
-      "scraped_at": "2026-05-01T13:14:34.723Z"
+      "scraped_at": "2026-05-01T14:47:34.109Z"
     },
     "tags": [
       "item",
@@ -500,10 +504,14 @@
     "usage": null,
     "obtain_locations": [
       "Location: Lumiere",
+      "This item is acquired by giving 1x Festival Token to Collette, who is located at the Expedition Festival.",
+      "This item now appears in the final Location, Lumiere. You can find this item by going up the stairs from the docks, then turning left to an area where you can see a stack of boxes. There's a pink item in between the crates where you can get the Old Key.",
+      "After the Gommage, the game progresses to the Festival Expedition, and you'll acquire 1.",
       "The second token can be acquired by answering Antoine's trivia questions. When asked \"When was the Fracture?\": the answer is 67 years ago. When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero. When asked \"What is Lumina?\": the answer is Abilities you internalize by using a Pictos in battle after enough times.",
       "When asked \"When was the Fracture?\": the answer is 67 years ago.",
       "When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero.",
-      "When asked \"What is Lumina?\": the answer is Abilities you internalize by using a Pictos in battle after enough times."
+      "When asked \"What is Lumina?\": the answer is Abilities you internalize by using a Pictos in battle after enough times.",
+      "The third token can be acquired from Maelle, just win the rematch against her and she'll give you the token. If at first you lose, you can fight again until you win."
     ]
   },
   {
@@ -514,7 +522,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/manor-family-canvas-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Manor+Family+Canvas",
-      "scraped_at": "2026-05-01T13:14:35.151Z"
+      "scraped_at": "2026-05-01T14:47:34.613Z"
     },
     "tags": [
       "item",
@@ -523,7 +531,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: The Canvas"
+      "Location: The Canvas",
+      "The item can be found at The Canvas location. Requires Esquie's fly ability to reach the floating island."
     ]
   },
   {
@@ -534,7 +543,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/flower-for-sophie-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/A+Flower+for+Sophie",
-      "scraped_at": "2026-05-01T13:14:35.767Z"
+      "scraped_at": "2026-05-01T14:47:35.259Z"
     },
     "tags": [
       "item",
@@ -543,7 +552,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Lumiere"
+      "Location: Lumiere",
+      "Found on a bench at the start of the game. Right after the cutscene, when you gain control of Gustave as the Prologue starts, look to your left to find the flower on the bench."
     ]
   },
   {
@@ -554,7 +564,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/gustaves-journal-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/A+Journal+from+Gustave's+Apprentices",
-      "scraped_at": "2026-05-01T13:14:36.709Z"
+      "scraped_at": "2026-05-01T14:47:36.233Z"
     },
     "tags": [
       "item",
@@ -563,7 +573,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Lumiere"
+      "Location: Lumiere",
+      "Given by a boy named Alexandre at the Expedition Festival, simply speak to him to acquire this item."
     ]
   },
   {
@@ -574,7 +585,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/uniform-for-richards-son-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/A+Uniform+for+Richard's+Son",
-      "scraped_at": "2026-05-01T13:14:37.198Z"
+      "scraped_at": "2026-05-01T14:47:36.712Z"
     },
     "tags": [
       "item",
@@ -583,7 +594,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Lumiere"
+      "Location: Lumiere",
+      "This item is acquired from a man named Richard, who can be found in the central town of Lumiere during the prologue of the game. Just before you pass through the market, you'll find him standing there. Speak to him to obtain this quest item."
     ]
   },
   {
@@ -594,7 +606,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/birthday-cake-quest-item-coe33-wiki-guide200px.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Birthday+Cake",
-      "scraped_at": "2026-05-01T13:14:38.063Z"
+      "scraped_at": "2026-05-01T14:47:37.636Z"
     },
     "tags": [
       "item",
@@ -603,7 +615,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Verso's Drafts"
+      "Location: Verso's Drafts",
+      "Can be obtained once you have collected all 3 Pieces of Cake by completing different side quests in Verso's Drafts."
     ]
   },
   {
@@ -614,7 +627,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/bourgeon-skin-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Bourgeon+Skin",
-      "scraped_at": "2026-05-01T13:14:38.920Z"
+      "scraped_at": "2026-05-01T14:47:38.631Z"
     },
     "tags": [
       "item",
@@ -623,6 +636,9 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
+      "This item is dropped by an optional boss, the Bourgeon.",
+      "The first time you can acquire this is by defeating the Bourgeon located at Flying Waters.",
+      "[See Expedition 33 Map] The other location you can find the Bourgeon is in The Continent map, near the entrance of Stone Wave Cliffs.",
       "Flying Manor: Three Bourgeons can be found in the Flying Manor, each dropping a Bourgeon Skin"
     ]
   },
@@ -634,7 +650,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/color-of-the-beast-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Colour+of+the+Beast",
-      "scraped_at": "2026-05-01T13:14:39.376Z"
+      "scraped_at": "2026-05-01T14:47:39.154Z"
     },
     "tags": [
       "item",
@@ -643,7 +659,8 @@
     "subtype": "quest_item",
     "usage": "A lamp that can be used to awaken the beast.",
     "obtain_locations": [
-      "Location: Painting Workshop"
+      "Location: Painting Workshop",
+      "Given by the faceless boy that you find in the Painting Workshop. [See Expedition 33 Map]"
     ]
   },
   {
@@ -654,7 +671,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/chromatic-ink-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Chromatic+Ink",
-      "scraped_at": "2026-05-01T13:14:40.341Z"
+      "scraped_at": "2026-05-01T14:47:40.202Z"
     },
     "tags": [
       "item",
@@ -672,7 +689,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/eternal-ice-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Eternal+Ice",
-      "scraped_at": "2026-05-01T13:14:40.763Z"
+      "scraped_at": "2026-05-01T14:47:40.727Z"
     },
     "tags": [
       "item",
@@ -681,7 +698,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Frozen Hearts"
+      "Location: Frozen Hearts",
+      "Acquired as a drop reward for defeating the Gargant boss."
     ]
   },
   {
@@ -692,7 +710,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/festival-token-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Festival+Token",
-      "scraped_at": "2026-05-01T13:14:41.182Z"
+      "scraped_at": "2026-05-01T14:47:41.252Z"
     },
     "tags": [
       "item",
@@ -702,10 +720,13 @@
     "usage": null,
     "obtain_locations": [
       "Location: Lumiere",
+      "There are three tokens you can acquire during the Festival Expedition.",
+      "After the Gommage, the game progresses to the Festival Expedition, and you'll acquire 1.",
       "The second token can be acquired by answering Antoine's trivia questions. When asked \"When was the Fracture?\": the answer is 67 years ago. When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero. When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times.",
       "When asked \"When was the Fracture?\": the answer is 67 years ago.",
       "When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero.",
-      "When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times."
+      "When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times.",
+      "The third token can be acquired from Maelle, just win the rematch against her and she'll give you the token. If at first you lose, you can to fight again until you win."
     ]
   },
   {
@@ -716,7 +737,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/intact-mine-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Intact+Mine",
-      "scraped_at": "2026-05-01T13:14:42.111Z"
+      "scraped_at": "2026-05-01T14:47:42.110Z"
     },
     "tags": [
       "item",
@@ -725,7 +746,9 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Flying Waters"
+      "Location: Flying Waters",
+      "Located around the area where Expedition 68's Boat is found.",
+      "Go east to find a passageway (looks like a large head of a Demineur) that leads to a path where you'll find a White Demineur that you can interact with. On the right side, you can find a path that you can jump across to find the Intact Mine."
     ]
   },
   {
@@ -736,7 +759,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/light-of-the-beast-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Light+of+the+Beast",
-      "scraped_at": "2026-05-01T13:14:42.584Z"
+      "scraped_at": "2026-05-01T14:47:42.533Z"
     },
     "tags": [
       "item",
@@ -745,7 +768,8 @@
     "subtype": "quest_item",
     "usage": "A lamp that can be used to awaken the beast.",
     "obtain_locations": [
-      "Location: Painting Workshop"
+      "Location: Painting Workshop",
+      "Given by the faceless boy that you find in the Painting Workshop. [See Expedition 33 Map]"
     ]
   },
   {
@@ -756,7 +780,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/molten-heart-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Molten+Heart",
-      "scraped_at": "2026-05-01T13:14:43.490Z"
+      "scraped_at": "2026-05-01T14:47:43.398Z"
     },
     "tags": [
       "item",
@@ -774,7 +798,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/mushroom-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Mushroom",
-      "scraped_at": "2026-05-01T13:14:44.024Z"
+      "scraped_at": "2026-05-01T14:47:43.876Z"
     },
     "tags": [
       "item",
@@ -783,7 +807,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Esquie's Nest"
+      "Location: Esquie's Nest",
+      "Upon first entering the cavern, look to your right and drop down towards where the Mime enemy is standing. If you look a bit to the left from where the Mime is, you'll see some glowing mushrooms on the ground. Approach it to find this item that you can pick up from the ground."
     ]
   },
   {
@@ -794,7 +819,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/piece-of-cake-1-quest-item-coe33-wiki-guide200px.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Piece+of+Cake+1",
-      "scraped_at": "2026-05-01T13:14:45.076Z"
+      "scraped_at": "2026-05-01T14:47:44.819Z"
     },
     "tags": [
       "item",
@@ -803,7 +828,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Verso's Drafts"
+      "Location: Verso's Drafts",
+      "Can be obtained by speaking to the Half-Baked Lifeguard at the Gestral Baths in Verso's Drafts after solving the Orange Esquie Statues puzzle."
     ]
   },
   {
@@ -814,7 +840,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/piece-of-cake-2-quest-item-coe33-wiki-guide200px.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Piece+of+Cake+2",
-      "scraped_at": "2026-05-01T13:14:45.583Z"
+      "scraped_at": "2026-05-01T14:47:45.254Z"
     },
     "tags": [
       "item",
@@ -823,7 +849,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Verso's Drafts."
+      "Location: Verso's Drafts.",
+      "Can be obtained by finding the Toy Boat and returning it to the Half-Baked Gestral located north of the Open Playground Expedition Flag."
     ]
   },
   {
@@ -834,7 +861,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/toy-boat-quest-item-coe33-wiki-guide200px.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Toy+Boat",
-      "scraped_at": "2026-05-01T13:14:46.105Z"
+      "scraped_at": "2026-05-01T14:47:45.737Z"
     },
     "tags": [
       "item",
@@ -843,7 +870,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Verso's Drafts."
+      "Location: Verso's Drafts.",
+      "Can be found behind a waterfall in Reverie Path. From the Reverie Path Expedition Flag, head towards the pool of water and turn left by the trees with little charms hanging from them. Go behind the waterfall to find the Toy Boat at the end of the little alcove."
     ]
   },
   {
@@ -854,7 +882,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/piece-of-cake-3-quest-item-coe33-wiki-guide200px.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Piece+of+Cake+3",
-      "scraped_at": "2026-05-01T13:14:46.538Z"
+      "scraped_at": "2026-05-01T14:47:46.163Z"
     },
     "tags": [
       "item",
@@ -863,7 +891,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Verso's Drafts."
+      "Location: Verso's Drafts.",
+      "Can be obtained by having all characters ride the Carousel at the Gestral Carousel after speaking to the Very Very Cool Gestral."
     ]
   },
   {
@@ -874,7 +903,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/rock-crystal-quest-item-expedition-33-wiki-guide-200px.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Rock+Crystal",
-      "scraped_at": "2026-05-01T13:14:47.715Z"
+      "scraped_at": "2026-05-01T14:47:47.205Z"
     },
     "tags": [
       "item",
@@ -882,7 +911,11 @@
     ],
     "subtype": "quest_item",
     "usage": null,
-    "obtain_locations": []
+    "obtain_locations": [
+      "The first Rock Crystal can be found by breaking a crystal directly ahead toward the left upon reaching the bottom of the Tide Caverns in Stone Wave Cliffs.",
+      "The second Rock Crystal can be found by breaking a crystal that is situated behind a large hexagon stalagmite up ahead in the middle of the Tide Caverns in Stone Wave Cliffs.",
+      "The third Rock Crystal can be found by defeating the Rocher Boss that hid its body by a rope in the far right section of the Tide Caverns in Stone Wave Cliffs."
+    ]
   },
   {
     "id": "questitem-shape-of-the-beast",
@@ -892,7 +925,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/shape-of-the-beast-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Shape+of+the+Beast",
-      "scraped_at": "2026-05-01T13:14:48.211Z"
+      "scraped_at": "2026-05-01T14:47:47.687Z"
     },
     "tags": [
       "item",
@@ -901,7 +934,8 @@
     "subtype": "quest_item",
     "usage": "A lamp that can be used to awaken the beast.",
     "obtain_locations": [
-      "Location: Painting Workshop"
+      "Location: Painting Workshop",
+      "Given by the faceless boy that you find in the Painting Workshop. [See Expedition 33 Map]"
     ]
   },
   {
@@ -912,7 +946,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/underground-key-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Underground+Key",
-      "scraped_at": "2026-05-01T13:14:48.733Z"
+      "scraped_at": "2026-05-01T14:47:48.112Z"
     },
     "tags": [
       "item",
@@ -930,7 +964,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/weird-pictos-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Weird+Pictos",
-      "scraped_at": "2026-05-01T13:14:49.270Z"
+      "scraped_at": "2026-05-01T14:47:48.588Z"
     },
     "tags": [
       "item",
@@ -940,10 +974,13 @@
     "usage": null,
     "obtain_locations": [
       "Location: Lumiere",
+      "This item is acquired by giving 1x Festival Token to Tom, who is located at the Expedition Festival.",
+      "After the Gommage, the game progresses to the Festival Expedition, and you'll acquire 1.",
       "The second token can be acquired by answering Antoine's trivia questions. When asked \"When was the Fracture?\": the answer is 67 years ago. When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero. When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times.",
       "When asked \"When was the Fracture?\": the answer is 67 years ago.",
       "When asked \"When was the First Expedition to depart?\": the answer is Expedition Zero.",
-      "When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times."
+      "When asked \"What is Lumina?\": the answer is Abilities you internalisae by using a Pictos in battle after enough times.",
+      "The third token can be acquired from Maelle, just win the rematch against her and she'll give you the token. If at first you lose, you can to fight again until you win."
     ]
   },
   {
@@ -954,7 +991,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/wood-boards-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Wood+Boards",
-      "scraped_at": "2026-05-01T13:14:50.304Z"
+      "scraped_at": "2026-05-01T14:47:49.704Z"
     },
     "tags": [
       "item",
@@ -963,7 +1000,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Esoteric Ruins"
+      "Location: Esoteric Ruins",
+      "Found in Esoteric Ruins, past the maze."
     ]
   },
   {
@@ -974,7 +1012,7 @@
     "image_url": "https://expedition33.wiki.fextralife.com/file/Expedition-33/wooden-stick-quest-item-expedition-33-wiki-guide-200px-min.png",
     "source": {
       "url": "https://expedition33.wiki.fextralife.com/Wooden+Stick",
-      "scraped_at": "2026-05-01T13:14:51.183Z"
+      "scraped_at": "2026-05-01T14:47:50.969Z"
     },
     "tags": [
       "item",
@@ -983,7 +1021,8 @@
     "subtype": "quest_item",
     "usage": null,
     "obtain_locations": [
-      "Location: Gestral Village"
+      "Location: Gestral Village",
+      "Acquired by paying a large muscular Gestral 1,000 Chroma when he talks about the \"Excalibur\" weapon. This Gestral is found at the Gestral Bazar of the Gestral Village."
     ]
   }
 ]
