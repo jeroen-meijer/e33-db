@@ -1,3 +1,7 @@
+> **AI-generated:** This app was fully coded by AI (Claude by Anthropic).
+
+> **Data source:** All game data is sourced from the [Expedition 33 Wiki](https://expedition33.wiki.fextralife.com/Expedition+33+Wiki) on FextraLife.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
